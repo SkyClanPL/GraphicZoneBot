@@ -1,1 +1,1 @@
-#Graphic Zone Discord Bot 
+# Graphic Zone Discord Bot 
